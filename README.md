@@ -24,6 +24,7 @@
 - [Awesome GPTs Prompts](https://github.com/ai-boost/awesome-gpts-prompts): Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store.
 - [GPT Prompt Engineer](https://github.com/mshumer/gpt-prompt-engineer)
 - [GPTs Prompt Collection](https://github.com/B3o/GPTS-Prompt-Collection): Collect the prompt of GPTS.
+- [In-The-Wild Jailbreak Prompts on LLMS](https://github.com/verazuo/jailbreak_llms): A dataset consists of 15,140 ChatGPT prompts from Reddit, Discord, websites, and open-source datasets (including 1,405 jailbreak prompts).
 
 ## 建议
 
