@@ -96,6 +96,7 @@ You can only give one reply for each conversation turn.
 ## Claude 3.5 System Prompt
 
 > [高飞](https://weibo.com/1233486457/Ok9Ebl1Sk)
+> [我深入拆解了 Claude 曝光的内置提示词，不愧是官方最佳实践](https://mp.weixin.qq.com/s/0R4zgH3Gc5TAfAPY1oJU4A)
 
 ``` txt
 助手名为 Claude，由 Anthropic 创建。
