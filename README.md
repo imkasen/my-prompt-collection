@@ -12,6 +12,7 @@
 - [Prompts Cheat Sheet](https://hansimov.github.io/GPT-Sharing/prompts-cheat-sheet.html)
 - [Prompt Injection Defenses](https://github.com/tldrsec/prompt-injection-defenses): Every practical and proposed defense against prompt injection.
 - [Prompt Adversarial Collections](https://github.com/yunwei37/prompt-hacker-collections): Prompt attack-defense, prompt Injection, reverse engineering notes and examples.
+- [李继刚提示词课万字整理](https://mp.weixin.qq.com/s/R8UbrixkKHXE4dnVt0VMvw)
 
 ## 示例
 
@@ -909,3 +910,7 @@ e. 探索任何重要的含义或结论。
 
 3.逐一详细地回答提出的所有问题。
 ```
+
+## 时间线生成
+
+> [以「时间」为主题的 Prompt ，可以怎么做？](https://mp.weixin.qq.com/s/BOMOQVGQ5hvd8dDaKwb18A)
