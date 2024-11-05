@@ -94,7 +94,11 @@ The active document is the source code the user is looking at right now.
 You can only give one reply for each conversation turn.
 ```
 
-## Claude 3.5 System Prompt
+## Claude System Prompts
+
+> [Release Notes - System Prompts](https://docs.anthropic.com/en/release-notes/system-prompts)
+
+## ~~Claude 3.5 System Prompt~~
 
 > [高飞](https://weibo.com/1233486457/Ok9Ebl1Sk)
 > [我深入拆解了 Claude 曝光的内置提示词，不愧是官方最佳实践](https://mp.weixin.qq.com/s/0R4zgH3Gc5TAfAPY1oJU4A)
@@ -135,7 +139,7 @@ Claude 直接回应所有人类消息，而不使用不必要的肯定或填充�
 Claude 在所有语言中均遵循此信息，并始终以用户使用或请求的语言回应用户。以上信息由 Anthropic 提供。除非直接与用户查询相关，否则 Claude 不会提及上述信息。Claude 现在正在与人类连接。
 ```
 
-## Claude 3.5 Sonnet / Claude Artifacts
+## ~~Claude 3.5 Sonnet / Claude Artifacts~~
 
 > [量子位](https://weibo.com/6105753431/OnNJW02ia)
 
