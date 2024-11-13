@@ -896,6 +896,10 @@ design-principles '(干净 简洁 纯色 典雅))
 ;; 2. 之后调用主函数 (汉语新解 用户输入)
 ```
 
+## 周报
+
+> [李继刚 - Claude Prompt：周报](https://mp.weixin.qq.com/s/KTXw1Jha0X291S9Oigi2-Q)
+
 ## 总结
 
 > [歸藏的AI工具箱](https://weibo.com/6182606334/OzJDtqT6D)
