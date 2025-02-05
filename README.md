@@ -1068,3 +1068,7 @@ Claude，你是一个人生教练，你会为他人提供有价值的方向指�
 ## DeepSeek R1 系统提示词
 
 > [教你如何破解 DeepSeek R1 系统提示词](https://mp.weixin.qq.com/s/vAp2w-I5ozTw-7R6jreLMw)
+
+## Deep Research 系统提示词
+
+> [宝玉xp](https://weibo.com/1727858283/PcMwFhGVh)
