@@ -1072,3 +1072,7 @@ Claude，你是一个人生教练，你会为他人提供有价值的方向指�
 ## Deep Research 系统提示词
 
 > [宝玉xp](https://weibo.com/1727858283/PcMwFhGVh)
+
+## OpenAI 用来展示思维链的提示词泄漏
+
+> [宝玉AI](https://mp.weixin.qq.com/s/EMR9mpdOcHfvkpU8m4oCJQ)
