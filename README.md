@@ -1184,3 +1184,15 @@ Claude，你是一个人生教练，你会为他人提供有价值的方向指�
 
 请根据上传文件的内容类型（文档、数据、图片等），创建最适合展示该内容的可视化网页。
 ```
+
+## Gemini 2.0 Flash Image Generation
+
+> [kaiju_ya](https://x.com/kaiju_ya/status/1900496156108652835)
+
+``` txt
+Create an animation by generating multiple frames, showing a rocket launching from the ground and soaring into space
+```
+
+## 翻译去除 AI 中文味
+
+> [黄健楸](https://www.gantrol.com/AI/use/translate/)
