@@ -1195,7 +1195,8 @@ Create an animation by generating multiple frames, showing a rocket launching fr
 
 ## 翻译去除 AI 中文味
 
-> [黄健楸](https://www.gantrol.com/AI/use/translate/)
+> - [黄健楸](https://www.gantrol.com/AI/use/translate/)
+> - [AI 味去除](https://github.com/hylarucoder/ai-flavor-remover)
 
 ## 编程老师
 
