@@ -26,6 +26,7 @@
 - [GPT Prompt Engineer](https://github.com/mshumer/gpt-prompt-engineer)
 - [GPTs Prompt Collection](https://github.com/B3o/GPTS-Prompt-Collection): Collect the prompt of GPTS.
 - [In-The-Wild Jailbreak Prompts on LLMS](https://github.com/verazuo/jailbreak_llms): A dataset consists of 15,140 ChatGPT prompts from Reddit, Discord, websites, and open-source datasets (including 1,405 jailbreak prompts).
+- [Awesome AI System Prompts](https://github.com/dontriskit/awesome-ai-system-prompts)
 
 ## 建议
 
@@ -1244,3 +1245,12 @@ Remember to use my name.
 ## 生成小红书/公众号封面
 
 > [歸藏的AI工具箱](https://mp.weixin.qq.com/s/OFCgFrXNQgIT2ho3V-4Oag)
+
+## 谷歌 AI Studio 视频总结
+
+> [i陆三金](https://weibo.com/1706699904/PmbFIDTjk)
+
+1. 在谷歌 AI Studio 选择 Gemini 2.5 Pro Preview 03-25，将 Obsidian Canvas 的[标准格式文档](https://jsoncanvas.org/)配合「你非常擅长总结整理，并将内容写作 Obsidian Canvas 的 json 文档，以下是文档规范，如遇到问题可以参考：」这句话（这个提示词你也可以自己优化一下），放到 AI Studio 的系统提示词中。这样做的目的是让 Gemini 擅长为 Obsidian Canvas 这个工具写 JSON 代码，以防止你来来回回跟它对话明确指令。
+2. 将视频贴到对话窗口，告诉它整理总结并输出 Obsidian Canvas 文档。
+3. 用 Cusor、VS Code 等文本编辑器（用其他文本编辑器也是一样的）打开 Obsidian 的文件夹，新建文档，后缀为 `.canvas`（注：这其实是个 JSON 文件），将 Gemini 生成的代码粘进去，保存。
+4. 在 Obsidian 中打开刚才新建的文件，脑图就出来了，然后你可以在此基础上调整一下格式。
