@@ -27,6 +27,7 @@
 - [GPTs Prompt Collection](https://github.com/B3o/GPTS-Prompt-Collection): Collect the prompt of GPTS.
 - [In-The-Wild Jailbreak Prompts on LLMS](https://github.com/verazuo/jailbreak_llms): A dataset consists of 15,140 ChatGPT prompts from Reddit, Discord, websites, and open-source datasets (including 1,405 jailbreak prompts).
 - [Awesome AI System Prompts](https://github.com/dontriskit/awesome-ai-system-prompts)
+- [System Prompts and Models of AI Tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)
 
 ## 建议
 
