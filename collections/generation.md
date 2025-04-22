@@ -2,6 +2,8 @@
 
 ## 宝玉xp：Sora 图像生成
 
+- [裸眼 3D](https://weibo.com/1727858283/PohBs4hQ3)
+- [让 AI 用不同风格重画清明上河图](https://weibo.com/1727858283/PooSW8CfR)
 - [迷你 3D 风格建筑](https://weibo.com/1727858283/Po5Fp1AJm)
 - [连环画](https://weibo.com/1727858283/PnN9ekT7V)
 - [中国古典美女](https://weibo.com/1727858283/PnFCFs0PL)
