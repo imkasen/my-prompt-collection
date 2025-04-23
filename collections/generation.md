@@ -2,6 +2,9 @@
 
 ## 宝玉xp：Sora 图像生成
 
+- [把你不喜欢人物设计成马桶刷子](https://weibo.com/1727858283/PownmAbUg)
+- [明星合照](https://weibo.com/1727858283/PourE5e3k)
+- [国潮古今混搭](https://weibo.com/1727858283/PoqUYj8ax)
 - [裸眼 3D](https://weibo.com/1727858283/PohBs4hQ3)
 - [让 AI 用不同风格重画清明上河图](https://weibo.com/1727858283/PooSW8CfR)
 - [迷你 3D 风格建筑](https://weibo.com/1727858283/Po5Fp1AJm)
