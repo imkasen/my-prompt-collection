@@ -1,7 +1,9 @@
 # 艺术生成
 
-## 宝玉xp：Sora 图像生成
+## Sora 图像生成
 
+- [排版肖像画](https://weibo.com/1727858283/PoEcjstGA)
+- [极简风格素材图片](https://weibo.com/1560906700/PoyXGzc2o)
 - [把你不喜欢人物设计成马桶刷子](https://weibo.com/1727858283/PownmAbUg)
 - [明星合照](https://weibo.com/1727858283/PourE5e3k)
 - [国潮古今混搭](https://weibo.com/1727858283/PoqUYj8ax)
