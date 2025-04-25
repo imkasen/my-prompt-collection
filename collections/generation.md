@@ -2,6 +2,9 @@
 
 ## Sora 图像生成
 
+- [皮克斯风格3D动画场景](https://weibo.com/1727858283/PoNpG0pyw)
+- [方块化动物的主题](https://weibo.com/1560906700/PoIwin1d0)
+- [在古代卷轴上浮现迷你 3D 场景](https://weibo.com/1727858283/PoJB2xQkp)
 - [排版肖像画](https://weibo.com/1727858283/PoEcjstGA)
 - [极简风格素材图片](https://weibo.com/1560906700/PoyXGzc2o)
 - [把你不喜欢人物设计成马桶刷子](https://weibo.com/1727858283/PownmAbUg)
