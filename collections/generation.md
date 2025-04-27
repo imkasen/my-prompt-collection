@@ -2,6 +2,10 @@
 
 ## Sora 图像生成
 
+- [把照片变成钥匙扣人偶](https://weibo.com/1727858283/Pp73ZmS1i)
+- [泰坦尼克号怀抱美女](https://weibo.com/1727858283/Pp30nwwRN)
+- [让 AI 带你穿越古代](https://weibo.com/1727858283/Pp1qlvLlV)
+- [让 AI 重现你和同桌青涩的校园时光](https://weibo.com/1727858283/PoWZ7FBMN)
 - [皮克斯风格3D动画场景](https://weibo.com/1727858283/PoNpG0pyw)
 - [方块化动物的主题](https://weibo.com/1560906700/PoIwin1d0)
 - [在古代卷轴上浮现迷你 3D 场景](https://weibo.com/1727858283/PoJB2xQkp)
