@@ -2,6 +2,12 @@
 
 ## Sora 图像生成
 
+- [街头漫画艺术家绘制肖像](https://weibo.com/1727858283/PpuDseO72)
+- [怀旧向的电子宠物钥匙扣](https://weibo.com/1560906700/PptDYEnye)
+- [让你的形象和社交媒体相框巧妙融合](https://weibo.com/1727858283/PptsiuW9G)
+- [复古版、印刷风格的城市海报设计](https://weibo.com/1560906700/PpkpMinMY)
+- [将照片人像化作梦幻水晶玻璃球](https://weibo.com/1727858283/PpaYOsJLG)
+- [把故事场景融入水晶球中](https://weibo.com/1727858283/Ppg6GeX2A)
 - [把照片变成钥匙扣人偶](https://weibo.com/1727858283/Pp73ZmS1i)
 - [泰坦尼克号怀抱美女](https://weibo.com/1727858283/Pp30nwwRN)
 - [让 AI 带你穿越古代](https://weibo.com/1727858283/Pp1qlvLlV)
