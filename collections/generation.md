@@ -2,6 +2,9 @@
 
 ## Sora 图像生成
 
+- [用 AI 画乐高搭建的城市](https://weibo.com/1727858283/PpKUgaTra)
+- [画一张程序员名片](https://weibo.com/1727858283/PpD3Dyl0V)
+- [地区胶囊](https://weibo.com/6182606334/PpwXb5gVT)
 - [街头漫画艺术家绘制肖像](https://weibo.com/1727858283/PpuDseO72)
 - [怀旧向的电子宠物钥匙扣](https://weibo.com/1560906700/PptDYEnye)
 - [让你的形象和社交媒体相框巧妙融合](https://weibo.com/1727858283/PptsiuW9G)
