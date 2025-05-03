@@ -2,6 +2,9 @@
 
 ## Sora 图像生成
 
+- [Awesome GPT-4o Images](https://github.com/jamez-bondos/awesome-gpt4o-images)
+- [坐在相纸上喝奶茶](https://weibo.com/1727858283/Pq3oj8x96)
+- [生成特色城市天气预报图片](https://weibo.com/1727858283/PpS2dvzMQ)
 - [用 AI 画乐高搭建的城市](https://weibo.com/1727858283/PpKUgaTra)
 - [画一张程序员名片](https://weibo.com/1727858283/PpD3Dyl0V)
 - [地区胶囊](https://weibo.com/6182606334/PpwXb5gVT)
