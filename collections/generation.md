@@ -3,6 +3,10 @@
 ## Sora 图像生成
 
 - [Awesome GPT-4o Images](https://github.com/jamez-bondos/awesome-gpt4o-images)
+- [让 AI 圆你写书梦](https://weibo.com/1727858283/PqQsu7aX4)
+- [用 AI 帮你设计个性 T 恤](https://weibo.com/1727858283/PqGrfucpA)
+- [生成折纸图](https://weibo.com/1727858283/PqeYGB769)
+- [十二生肖](https://weibo.com/1727858283/PqcRFtg26)
 - [坐在相纸上喝奶茶](https://weibo.com/1727858283/Pq3oj8x96)
 - [生成特色城市天气预报图片](https://weibo.com/1727858283/PpS2dvzMQ)
 - [用 AI 画乐高搭建的城市](https://weibo.com/1727858283/PpKUgaTra)
