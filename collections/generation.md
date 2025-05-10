@@ -3,6 +3,8 @@
 ## Sora 图像生成
 
 - [Awesome GPT-4o Images](https://github.com/jamez-bondos/awesome-gpt4o-images)
+- [让手办和真人同框](https://weibo.com/1727858283/Pr8fYxfSx)
+- [用AI创作手办照片](https://weibo.com/1727858283/Pr5sVx7du)
 - [让 AI 圆你写书梦](https://weibo.com/1727858283/PqQsu7aX4)
 - [用 AI 帮你设计个性 T 恤](https://weibo.com/1727858283/PqGrfucpA)
 - [生成折纸图](https://weibo.com/1727858283/PqeYGB769)
