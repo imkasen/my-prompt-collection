@@ -3,6 +3,8 @@
 ## Sora 图像生成
 
 - [Awesome GPT-4o Images](https://github.com/jamez-bondos/awesome-gpt4o-images)
+- [3D像素风格化道具生成](https://weibo.com/1560906700/PsAhPwEhQ)
+- [风格人物+精神投射](https://weibo.com/1727858283/PsvVrBXNQ)
 - [生成折叠式纸雕立体绘本](https://weibo.com/1727858283/Ps5iqrAoC)
 - [设计美甲图案](https://weibo.com/1727858283/PrSrwaFV9)
 - [双重曝光](https://weibo.com/1560906700/PrCIcxayZ)
