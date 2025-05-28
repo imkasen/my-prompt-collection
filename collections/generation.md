@@ -3,6 +3,7 @@
 ## Sora 图像生成
 
 - [Awesome GPT-4o Images](https://github.com/jamez-bondos/awesome-gpt4o-images)
+- [昼夜双重曝光景观](https://weibo.com/1560906700/PtK3Svksr)
 - [3D像素风格化道具生成](https://weibo.com/1560906700/PsAhPwEhQ)
 - [风格人物+精神投射](https://weibo.com/1727858283/PsvVrBXNQ)
 - [生成折叠式纸雕立体绘本](https://weibo.com/1727858283/Ps5iqrAoC)
@@ -82,6 +83,16 @@
 - [写实的微缩场景](https://weibo.com/1727858283/PkCzuyyAG)
 - [复杂四格漫画](https://weibo.com/1727858283/PkBL209P0)
 - [复古广告画](https://weibo.com/1727858283/PkwHjfiQe)
+
+## Veo3 城市微缩景观
+
+> [歸藏的AI工具箱](https://weibo.com/6182606334/PtVqNvWGI)
+
+``` txt
+Time-lapse photography style, the culinary scene unfolds gradually from nothingness in a time-lapse manner. Various ingredients and miniature elements grow and assemble step by step, eventually forming a complete isometric 3D miniature landscape. Vibrant red chili peppers and emerald green Sichuan peppercorns are artfully arranged to spell out the English word "Chengdu."
+
+The specific landscape description is as follows: A bubbling hot pot of spicy oil and adorable panda elements create a world of numbing heat and aromatic flavors—miniature diners gather around a giant copper-style hot pot (chopping board), with ingredients like bamboo shoots, shiitake mushrooms, tripe, and tofu skin transforming into rolling hills. The spicy oil converges into a meandering river, dotted with tofu skin boats. Mini pandas made of glutinous rice balls or mochi play in a nearby bamboo forest (composed of celery or cilantro stems).
+```
 
 ## 知识类文章画信息图风格的配图
 
