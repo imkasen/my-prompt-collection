@@ -1,5 +1,9 @@
 # 编程开发
 
+## 降低 Cursor 幻觉
+
+Do a deep-dive on the code and understand how [insert feature] works. Once you understand it, let me know, and I will provide the task I have for you.
+
 ## 利用 AI 学习编程语言
 
 1. 询问最常用的 10 个功能特性
