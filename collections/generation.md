@@ -1,8 +1,9 @@
 # 艺术生成
 
-## Sora 图像生成
+## 图像生成
 
 - [Awesome GPT-4o Images](https://github.com/jamez-bondos/awesome-gpt4o-images)
+- [给各个品牌做了街头小店的外观设计](https://weibo.com/1560906700/PxeS5fm6e)
 - [电子设备拆解展示图](https://weibo.com/1560906700/Pw106iOcl)
 - [昼夜双重曝光景观](https://weibo.com/1560906700/PtK3Svksr)
 - [3D像素风格化道具生成](https://weibo.com/1560906700/PsAhPwEhQ)
