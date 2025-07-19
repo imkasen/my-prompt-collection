@@ -4,6 +4,10 @@
 - [System Prompts and Models of AI Tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)
 - [Grok prompts](https://github.com/xai-org/grok-prompts)
 
+## ChatGPT Agent 系统提示词
+
+> [宝玉xp](https://mp.weixin.qq.com/s/ORSXjSi_md8D_Yc6BhUm3g)
+
 ## xAI 虚拟角色 Ani 的系统提示词
 
 ``` txt
