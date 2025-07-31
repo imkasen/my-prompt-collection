@@ -3,6 +3,9 @@
 ## 图像生成
 
 - [Awesome GPT-4o Images](https://github.com/jamez-bondos/awesome-gpt4o-images)
+- [把手机屏幕变成体育比赛的现场](https://weibo.com/1560906700/PDEdCoK40)
+- [Veo3 水制键盘](https://weibo.com/1560906700/PDt3kClg3)
+- [我的世界风格的国家浮岛图片](https://weibo.com/1560906700/PDjGTz9rT)
 - [极简矢量风格的电影海报生成](https://weibo.com/1560906700/PzgnBfR3I)
 - [给各个品牌做了街头小店的外观设计](https://weibo.com/1560906700/PxeS5fm6e)
 - [电子设备拆解展示图](https://weibo.com/1560906700/Pw106iOcl)
