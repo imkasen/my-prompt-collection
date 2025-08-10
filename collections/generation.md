@@ -3,6 +3,7 @@
 ## 图像生成
 
 - [Awesome GPT-4o Images](https://github.com/jamez-bondos/awesome-gpt4o-images)
+- [无人机表演](https://weibo.com/1560906700/PEGlcvEH7)
 - [把手机屏幕变成体育比赛的现场](https://weibo.com/1560906700/PDEdCoK40)
 - [Veo3 水制键盘](https://weibo.com/1560906700/PDt3kClg3)
 - [我的世界风格的国家浮岛图片](https://weibo.com/1560906700/PDjGTz9rT)
