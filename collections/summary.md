@@ -1,5 +1,11 @@
 # 总结
 
+## 总结 Hacker News
+
+> [宝玉xp](https://weibo.com/1727858283/Q0HgU3EIH)
+
+输入的是 Hacker News 上的讨论，请筛选出有价值、洞见的讨论，并用中文归类整理，适当介绍背景，方便中文普通读者了解主要的观点分类和有价值的评论信息。
+
 ## 总结 Youtube
 
 > [宝玉xp](https://weibo.com/1727858283/PFiafhAM2)
