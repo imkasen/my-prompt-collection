@@ -1,5 +1,9 @@
 # 学习与思考
 
+## Paper Reading
+
+> [五道口纳什](https://www.bilibili.com/video/BV1FqebznEWU/)
+
 ## OpenAI 学习模式
 
 > [宝玉xp](https://weibo.com/1727858283/PDskyp8l5)
