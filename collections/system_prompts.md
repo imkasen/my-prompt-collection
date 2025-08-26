@@ -1,5 +1,6 @@
 # 系统提示词
 
+- [System Prompts Leaks](https://github.com/asgeirtj/system_prompts_leaks)
 - [Awesome AI System Prompts](https://github.com/dontriskit/awesome-ai-system-prompts)
 - [System Prompts and Models of AI Tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)
 - [Grok prompts](https://github.com/xai-org/grok-prompts)
