@@ -92,6 +92,35 @@
 - [复杂四格漫画](https://weibo.com/1727858283/PkBL209P0)
 - [复古广告画](https://weibo.com/1727858283/PkwHjfiQe)
 
+## Google gemini 2.5 Flash Image
+
+### 超分图片和补充细节
+
+``` txt
+Enhance the resolution of this old anime image and add the appropriate texture details, reinterpreting it with modern anime techniques. ​​​
+```
+
+### 生成信息图
+
+> [宝玉xp](https://weibo.com/1727858283/Q1Hw583wI)
+
+``` txt
+请仔细阅读输入的内容，提取主题和核心要点，生成反应文章内容的封面图，要求：
+- 信息图，可以适当添加文字，默认使用英文
+- 加上丰富可爱的卡通人物和元素
+- 图片尺寸为横版（16:9）
+- 先思考后再生成
+
+---
+[你要生成图片的文章内容]
+```
+
+### 调色
+
+``` txt
+This photo is very boring and plain. Enhance it! Increase the contrast, boost the colors, and improve the lighting to make it richer,You can crop and delete details that affect the composition.
+```
+
 ## Veo3 城市微缩景观
 
 > [歸藏的AI工具箱](https://weibo.com/6182606334/PtVqNvWGI)
