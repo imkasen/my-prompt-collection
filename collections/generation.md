@@ -92,7 +92,19 @@
 - [复杂四格漫画](https://weibo.com/1727858283/PkBL209P0)
 - [复古广告画](https://weibo.com/1727858283/PkwHjfiQe)
 
-## Google gemini 2.5 Flash Image
+## Google gemini 2.5 Flash Image (Nano Banana)
+
+### 家装展示
+
+从平面图生成 3D 渲染建筑俯视图，然后再生成指定视角的渲染图
+
+``` txt
+Help me convert this residential floor plan into an isometric photorealistic 3D rendering of the house.
+```
+
+``` txt
+Help me generate a realistic photo looking from the dining table towards the bathroom, which must comply with the house layout in the design plan, and appropriate decorations can be added.
+```
 
 ### 超分图片和补充细节
 
