@@ -94,6 +94,30 @@
 
 ## Google gemini 2.5 Flash Image (Nano Banana)
 
+### 一图读懂XXX
+
+> [歸藏的AI工具箱](https://weibo.com/6182606334/Q2iTA2O4z)
+
+``` txt
+Help me generate multiple 16:9 doodle-style images to explain the concept of "futures" to middle school students. The images should have a consistent colorful, thick-pencil hand-drawn style, be rich in information, feature English text, use solid color backgrounds, have outlines around the cards, and include uniform titles, similar to a PowerPoint presentation.
+```
+
+### 把建筑转成等距风格的图标
+
+> [歸藏的AI工具箱](https://weibo.com/6182606334/Q2aat4M0v)
+
+``` txt
+Convert the photo of this building into a rounded, cute isometric tile 3D rendering style, with a 1:1 ratio,To preserve the prominent features of the photographed building
+```
+
+### 将饮品变成抱枕
+
+> [歸藏的AI工具箱](https://weibo.com/6182606334/Q2aqBaiHY)
+
+``` txt
+Design the main object in the photo as a soft, rounded, and airy plush balloon or inflatable toy. Using smooth matte fabric texture, Do not have a plastic feeling. complemented by subtle fabric wrinkles and stitching to emphasize its inflated effect. The shape should be slightly irregular and soft, with gentle shadows and lighting to highlight its volume and realism. Place it on a clean, minimalist background (light gray or light blue) to maintain a playful sculptural aesthetic.
+```
+
 ### 家装展示
 
 从平面图生成 3D 渲染建筑俯视图，然后再生成指定视角的渲染图
