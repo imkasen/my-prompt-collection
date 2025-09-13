@@ -92,6 +92,16 @@
 - [复杂四格漫画](https://weibo.com/1727858283/PkBL209P0)
 - [复古广告画](https://weibo.com/1727858283/PkwHjfiQe)
 
+## 字节 Seedream 4.0
+
+> [即梦图片4.0模型 提示词手册](https://bytedance.larkoffice.com/docx/L4vCdah1DoDg7axVdYGcoplSn9f)
+
+### 生成中国风传统主题插画
+
+> [歸藏的AI工具箱](https://weibo.com/6182606334/Q44FSC1vT)
+
+根据这句诗词内容生成中国风传统主题插画，并且用竖排宋体写上对应的诗句，诗句为：“火冷灯稀霜露下，昏昏雪意云垂野”
+
 ## Google gemini 2.5 Flash Image (Nano Banana)
 
 > - [Awesome Nano Banana Images](https://github.com/JimmyLv/awesome-nano-banana)
