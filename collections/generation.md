@@ -2,6 +2,7 @@
 
 ## 图像生成
 
+- [让 ChatGPT 生成封面图的提示词](https://weibo.com/1727858283/QapGHq1le)
 - [Awesome GPT-4o Images](https://github.com/jamez-bondos/awesome-gpt4o-images)
 - [插画变手办](https://weibo.com/1727858283/Q0ZkvEWv4)
 - [无人机表演](https://weibo.com/1560906700/PEGlcvEH7)
