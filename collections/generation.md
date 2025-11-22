@@ -93,6 +93,15 @@
 - [复杂四格漫画](https://weibo.com/1727858283/PkBL209P0)
 - [复古广告画](https://weibo.com/1727858283/PkwHjfiQe)
 
+## Nano Banana Pro
+
+- [“蔷薇少女”墙绘](https://weibo.com/1727858283/QeWTlo2dm)
+- [把故事变成漫画故事板](https://weibo.com/1727858283/QeWG2uUzy)
+- [把故事变成漫画](https://weibo.com/1727858283/QeWExlKDv)
+- [生成图形化笔记](https://weibo.com/1727858283/Qf1xooilo)
+- [手绘风格的信息图卡片](https://weibo.com/1727858283/QeSpCyJDw)
+- [把文章变成杂志](https://weibo.com/1727858283/QeMwHwOBN)
+
 ## 字节 Seedream 4.0
 
 > [即梦图片4.0模型 提示词手册](https://bytedance.larkoffice.com/docx/L4vCdah1DoDg7axVdYGcoplSn9f)
