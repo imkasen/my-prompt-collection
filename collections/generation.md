@@ -101,6 +101,11 @@
 - [生成图形化笔记](https://weibo.com/1727858283/Qf1xooilo)
 - [手绘风格的信息图卡片](https://weibo.com/1727858283/QeSpCyJDw)
 - [把文章变成杂志](https://weibo.com/1727858283/QeMwHwOBN)
+- [生成教学信息图的画图提示词](https://weibo.com/1727858283/QffP9B9c0)
+- [半身像表情包提示词](https://weibo.com/1727858283/Qfj1ozyV4)
+- [角色设定图：时尚穿搭与生活美学版](https://weibo.com/1706699904/Qfk7OssGr)
+- [将文章变成黑板报](https://weibo.com/1727858283/Qft0fyfkl)
+- [把文章变成卡通信息图](https://weibo.com/1727858283/QfCLYnJyZ)
 
 ## 字节 Seedream 4.0
 
