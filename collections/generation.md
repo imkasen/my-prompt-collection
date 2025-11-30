@@ -106,6 +106,10 @@
 - [角色设定图：时尚穿搭与生活美学版](https://weibo.com/1706699904/Qfk7OssGr)
 - [将文章变成黑板报](https://weibo.com/1727858283/Qft0fyfkl)
 - [把文章变成卡通信息图](https://weibo.com/1727858283/QfCLYnJyZ)
+- [日历插画](https://weibo.com/1727858283/QfHDlF8jD)
+- [生成城市天气卡片](https://weibo.com/1727858283/QfH62kMuQ)
+- [皮克斯 3D 人物自拍](https://weibo.com/1727858283/QfRIzCEXs)
+- [手绘风格的城市旅行手账插画](https://weibo.com/1727858283/QgbElu8qG)
 
 ## 字节 Seedream 4.0
 
