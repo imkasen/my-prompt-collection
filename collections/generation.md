@@ -110,6 +110,10 @@
 - [生成城市天气卡片](https://weibo.com/1727858283/QfH62kMuQ)
 - [皮克斯 3D 人物自拍](https://weibo.com/1727858283/QfRIzCEXs)
 - [手绘风格的城市旅行手账插画](https://weibo.com/1727858283/QgbElu8qG)
+- [根据品牌名称生成一个迷你概念店](https://weibo.com/1727858283/QgiYWy4tG)
+- [生成哆啦A梦教学漫画](https://weibo.com/1727858283/QguP21PiJ)
+- [生成赛博名片提示词](https://weibo.com/1727858283/QgGyi8r7m)
+- [生成带有公司特色的实时股票价格图](https://weibo.com/1727858283/QgN0huFA9)
 
 ## 字节 Seedream 4.0
 
