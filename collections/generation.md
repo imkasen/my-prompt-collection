@@ -114,6 +114,11 @@
 - [生成哆啦A梦教学漫画](https://weibo.com/1727858283/QguP21PiJ)
 - [生成赛博名片提示词](https://weibo.com/1727858283/QgGyi8r7m)
 - [生成带有公司特色的实时股票价格图](https://weibo.com/1727858283/QgN0huFA9)
+- [把动画人物变成现实世界人物](https://weibo.com/1727858283/QgQvYfCSW)
+- [把城市漂浮在咖啡杯的奶泡之上](https://weibo.com/1727858283/QhhbyDTv1)
+- [生成裸眼 3D 大屏图片](https://weibo.com/1727858283/Qhj3Y73C9)
+- [在一张图中展示同一场景在一年四季的变化](https://weibo.com/1727858283/QhoCc0Njm)
+- [漂流瓶中的黑珍珠号](https://weibo.com/1727858283/QhYFGcrXB)
 
 ## 字节 Seedream 4.0
 
