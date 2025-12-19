@@ -119,6 +119,7 @@
 - [生成裸眼 3D 大屏图片](https://weibo.com/1727858283/Qhj3Y73C9)
 - [在一张图中展示同一场景在一年四季的变化](https://weibo.com/1727858283/QhoCc0Njm)
 - [漂流瓶中的黑珍珠号](https://weibo.com/1727858283/QhYFGcrXB)
+- [国潮风格城市地标](https://weibo.com/1727858283/Qi2kkx3Au)
 
 ## 字节 Seedream 4.0
 
