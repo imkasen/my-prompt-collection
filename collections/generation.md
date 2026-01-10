@@ -120,6 +120,8 @@
 - [在一张图中展示同一场景在一年四季的变化](https://weibo.com/1727858283/QhoCc0Njm)
 - [漂流瓶中的黑珍珠号](https://weibo.com/1727858283/QhYFGcrXB)
 - [国潮风格城市地标](https://weibo.com/1727858283/Qi2kkx3Au)
+- [将文章、故事变成漫画脚本提示词参考](https://weibo.com/1727858283/Qks0H78Mh)
+- [中式水墨绘本](https://weibo.com/1727858283/QlRYSzByz)
 
 ## 字节 Seedream 4.0
 
