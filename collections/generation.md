@@ -122,6 +122,12 @@
 - [国潮风格城市地标](https://weibo.com/1727858283/Qi2kkx3Au)
 - [将文章、故事变成漫画脚本提示词参考](https://weibo.com/1727858283/Qks0H78Mh)
 - [中式水墨绘本](https://weibo.com/1727858283/QlRYSzByz)
+- [把电影剧照改成立体化微缩模型](https://weibo.com/1560906700/QpbJIbbQM)
+- [「昼夜交替」主题的城市微缩景观图片](https://weibo.com/1560906700/Qq9djtk8E)
+
+## 字节 Seedance 2.0
+
+> [中式水墨风格的武侠艺术动漫短片](https://weibo.com/2343014623/QriSerXyS)
 
 ## 字节 Seedream 4.0
 
