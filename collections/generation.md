@@ -93,6 +93,28 @@
 - [复杂四格漫画](https://weibo.com/1727858283/PkBL209P0)
 - [复古广告画](https://weibo.com/1727858283/PkwHjfiQe)
 
+## GPT Image 2
+
+- [Awesome GPT Image 2 Prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
+- [Awesome GPT Image 2 Prompts](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)
+- [城市宣传海报](https://weibo.com/1727858283/QBvgn6rID)
+- [cartoon-style infographic](https://weibo.com/1727858283/QBYBmmMNR)
+- [black chalkboard-style infographic](https://weibo.com/1727858283/QBYB43HiY)
+- [旅行手账插画](https://weibo.com/1727858283/QBYA90OCU)
+- [手绘风格的信息图卡片](https://weibo.com/1727858283/QBYxwbLAm)
+- [a mesmerizing passage of time](https://weibo.com/1727858283/QBYxaCqJU)
+- [Magazine collage](https://weibo.com/1727858283/QBYwqf48h)
+- [Chinese comic](https://weibo.com/1727858283/QBYvWndAB)
+- [Japanese shonen manga](https://weibo.com/1727858283/QBYvJ6BUA)
+- [Movie Poster](https://weibo.com/1727858283/QBYvuiW5Z)
+- [双重曝光风格的高审美动漫史诗海报](https://weibo.com/1560906700/QBXYW1Zyw)
+- [Japanese-inspired art](https://weibo.com/1727858283/QC63M8P4H)
+- [Ghibli-style portrait](https://weibo.com/1727858283/QC63y8TgH)
+- [宋代山水意境的中式国风插画](https://weibo.com/1727858283/QC7BAn5WR)
+- [Soft poetic children's book illustration](https://weibo.com/1727858283/QC7kkqGT9)
+- [one-page hand-drawn educational infographic](https://weibo.com/1727858283/QCfD68eoK)
+- [Classic Bathtime Portrait of a Chicken](https://weibo.com/1727858283/QCcOqDOfv)
+
 ## Nano Banana Pro
 
 - [“蔷薇少女”墙绘](https://weibo.com/1727858283/QeWTlo2dm)

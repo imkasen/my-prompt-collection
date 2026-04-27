@@ -4,6 +4,7 @@
 - [Awesome AI System Prompts](https://github.com/dontriskit/awesome-ai-system-prompts)
 - [System Prompts and Models of AI Tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)
 - [Grok prompts](https://github.com/xai-org/grok-prompts)
+- [CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S): LEAKED SYSTEM PROMPTS FOR CHATGPT, GEMINI, GROK, CLAUDE, PERPLEXITY, CURSOR, DEVIN, REPLIT, AND MORE!
 
 ## ChatGPT Agent 系统提示词
 
