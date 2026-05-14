@@ -114,6 +114,10 @@
 - [Soft poetic children's book illustration](https://weibo.com/1727858283/QC7kkqGT9)
 - [one-page hand-drawn educational infographic](https://weibo.com/1727858283/QCfD68eoK)
 - [Classic Bathtime Portrait of a Chicken](https://weibo.com/1727858283/QCcOqDOfv)
+- [平面几何字体海报](https://weibo.com/2194035935/QCRHfm877)
+- [字体美学 x 单词视觉化 x 字体气质理解 x 要成精了！](https://weibo.com/1727858283/QCJDBn8nt)
+- [《汉字意象徽记》中国风logo提示词](https://weibo.com/2194035935/QE4lBw4bs)
+- [水墨风格 Slides/PPT](https://weibo.com/1727858283/QExw5B2GN)
 
 ## Nano Banana Pro
 
